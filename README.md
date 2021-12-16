@@ -13,12 +13,12 @@ to execute the unit tests simply run "mvn clean package" on the terminal and all
 it to execute or you can navigate to the test package and execute the tests from there.
 
 ## Port
-The application will run on port 8090
+The application will run on port 8092
 
 ## Documentation
 Swagger api documentation was used for this service
 
-http://localhost:8090/swagger-ui.html#/
+http://localhost:8092/swagger-ui.html#/
 
 ## Algorithm Test
 The algorithm test can be found in the test package "com.activedge.challenge.algorithm.test"
